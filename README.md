@@ -1,177 +1,168 @@
-<h1 align="center">Hi 👋, I'm Narendar Ramavath</h1>
+# Narendar Ramavath
 
-<h3 align="center">
-Software Engineer • Full Stack Developer • Backend Developer
-</h3>
+### Software Engineer · Full-Stack Developer · Backend Developer
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer;Backend+Developer;C%2B%2B+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js;Open+to+Software+Engineering+Opportunities" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=narendar-ramavath&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/narendar-ramavath">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:narendareduc@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://artful-resume-display.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/narendar-ramavath">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:narendareduc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/narendar-ramavath">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+## About Me
 
-🎓 **B.Tech – Information Technology (2026)**
+I am a **2026 Information Technology graduate** focused on building reliable, scalable, and secure software systems.
 
-💼 **Associate (Technical Operations) @ Amazon**
+My interests include **full-stack development, backend engineering, microservices, AI-powered automation, REST APIs, and database-driven applications**.
 
-📍 **Hyderabad, Telangana**
+I enjoy turning real-world requirements into practical software solutions with a focus on clean architecture, performance, security, and maintainability.
 
-🚀 Passionate about building scalable web applications and solving real-world problems.
+### Currently Exploring
 
-🌱 Currently exploring
-
-- Backend Development
+- Backend Engineering
+- Full-Stack Development
+- AI-powered Applications
 - Cloud Computing
 - System Design
 
-🎯 Looking for
-
-- Software Engineer
-- Associate Software Engineer
-- Backend Developer
-- Full Stack Developer
-
 ---
 
-# 🛠 Tech Stack
+## Technical Skills
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,c,javascript" />
-</p>
+`Python` `Java` `C++` `JavaScript` `C` `SQL`
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+`React.js` `Tailwind CSS` `Radix UI` `Recharts` `HTML5` `CSS3`
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+`Node.js` `Express.js` `FastAPI` `Spring Boot` `REST APIs` `JWT`
 
-### Database
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+`PostgreSQL` `Supabase` `MySQL` `MongoDB` `SQLite`
 
-### Tools
+### AI & APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+`OpenCV` `MediaPipe` `Gemini API` `Gmail API` `Meta WhatsApp Cloud API` `APScheduler`
 
----
+### Tools & Fundamentals
 
-# 💼 Professional Experience
+`Git` `GitHub` `Postman` `VS Code`
 
-## Amazon — Associate (Technical Operations)
-
-✔ Resolved **80+ technical customer cases daily**
-
-✔ Maintained **100% SLA compliance**
-
-✔ Performed root cause analysis and troubleshooting
-
-✔ Collaborated with cross-functional teams
-
-✔ Contributed to process improvements through issue pattern analysis
+**Computer Science:**  
+`DSA` `OOP` `DBMS` `Operating Systems` `Computer Networks` `SDLC`
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-| Project | Technologies | Description |
-|---------|--------------|-------------|
-| 🔐 Privacy-Enhanced Anonymous Cloud Authentication | C++, REST APIs, AES, MFA | Secure cloud authentication using encryption and anonymous verification |
-| ⛓ Blockchain Certificate Verification | JavaScript, SHA-256, HTML/CSS | Blockchain-based certificate validation system |
-| 📦 Stock Management System | JavaScript, MySQL, CRUD | Inventory management with real-time search and database integration |
+## TaskFlow
 
----
+### Full-Stack Task & Project Management Platform
 
-# 📜 Certifications
+**React.js · Node.js · Express.js · PostgreSQL · JWT**
 
-- Cisco — Introduction to Cybersecurity
-- Cisco — Operating Systems Essentials
-- Salesforce — AI with Agentforce Foundations
-- Hexart — Artificial Intelligence (Advanced)
-
----
-
-# 🏆 Achievements
-
-🥇 **Top 1% — Software Engineer (TestGorilla)**
-
-🥈 **Top 2% — Clean Code (TestGorilla)**
-
-🥉 **Top 3% — Problem Solving (TestGorilla)**
+- Built a full-stack project management platform for task and project tracking.
+- Implemented secure JWT authentication.
+- Designed Role-Based Access Control for Admin and Member roles.
+- Built a responsive React dashboard using Tailwind CSS.
+- Implemented live search and multi-criteria filtering.
+- Added productivity analytics for project and task tracking.
+- Designed RESTful APIs for application functionality.
+- Optimized PostgreSQL schemas and indexed queries.
+- Implemented payload validation for reliable API communication.
 
 ---
 
-# 📊 GitHub Statistics
+## AI-Powered Secure Coding & Anti-Cheating Assessment Platform
+
+**Java · Spring Boot · Python · FastAPI · OpenCV · MediaPipe**
+
+- Designed a decoupled microservices architecture using Spring Boot and FastAPI.
+- Built automated code evaluation and sandboxed real-time compilation.
+- Developed an AI-assisted proctoring pipeline using OpenCV and MediaPipe.
+- Implemented facial detection and eye-gaze tracking.
+- Generated continuous cheating-risk telemetry through webcam analysis.
+- Added client-side security controls for keyboard shortcuts, context menus, and background tab transitions.
+
+---
+
+## Automated AI Interview Scheduler & Notification Engine
+
+**Python · FastAPI · Gemini API · Gmail API · SQLite**
+
+- Built an asynchronous background scheduler using FastAPI and APScheduler.
+- Automated inbox polling for recruitment-related communications.
+- Integrated Google Gemini API to extract structured interview information.
+- Extracted company, role, date, time, timezone, and interview-round details.
+- Stored structured interview data using SQLite.
+- Integrated Meta WhatsApp Cloud API for automated interview notifications.
+
+---
+
+# Education
+
+### CMR Technical Campus, Hyderabad
+
+**B.Tech — Information Technology**  
+2022 – 2026 | **CGPA: 7.51 / 10.0**
+
+### TSRJC Balconda, Nizamabad
+
+**Intermediate — MPC**  
+2020 – 2022 | **92.5%**
+
+### Indur Model High School, Bodhan
+
+**Secondary School Certificate**  
+2019 – 2020 | **CGPA: 10.0 / 10.0**
+
+---
+
+# Certifications
+
+- **Cisco Networking Academy** — Introduction to Cybersecurity
+- **Hexart** — Artificial Intelligence (Advanced Level)
+- **Salesforce** — AI with Agentforce Foundations
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=narendar-ramavath&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendar-ramavath&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=narendar-ramavath&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=narendar-ramavath&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendar-ramavath&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# Connect With Me
 
-📧 **Email**
+<p align="left">
+  <a href="mailto:narendareduc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-narendareduc%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 
-**narendareduc@gmail.com**
+  <a href="https://www.linkedin.com/in/narendar-ramavath">
+    <img src="https://img.shields.io/badge/LinkedIn-Narendar%20Ramavath-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/narendar-ramavath
-
-🌐 **Portfolio**
-
-https://artful-resume-display.lovable.app/
+  <a href="https://artful-resume-display.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=flat&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Always learning • Always building • Always improving**
-
-</p>
+### Building software. Solving problems. Learning continuously.
