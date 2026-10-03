@@ -2,18 +2,6 @@
 
 ### 💻 Software Engineer · Full-Stack Developer · Backend Developer
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/narendar-ramavath">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:narendareduc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/narendar-ramavath">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -73,6 +61,8 @@ I enjoy turning real-world requirements into practical software solutions with a
 
 **React.js · Node.js · Express.js · PostgreSQL · JWT**
 
+🔗 **[View Repository](YOUR_TASKFLOW_REPOSITORY_LINK)**
+
 - 🔐 Implemented secure JWT authentication.
 - 👥 Designed Role-Based Access Control for Admin and Member roles.
 - 🎨 Built a responsive React dashboard using Tailwind CSS.
@@ -88,6 +78,8 @@ I enjoy turning real-world requirements into practical software solutions with a
 
 **Java · Spring Boot · Python · FastAPI · OpenCV · MediaPipe**
 
+🔗 **[View Repository](YOUR_ASSESSMENT_REPOSITORY_LINK)**
+
 - 🏗️ Designed a decoupled microservices architecture using Spring Boot and FastAPI.
 - 💻 Built automated code evaluation and sandboxed real-time compilation.
 - 👁️ Developed an AI-assisted proctoring pipeline using OpenCV and MediaPipe.
@@ -100,6 +92,8 @@ I enjoy turning real-world requirements into practical software solutions with a
 ## 🤖 Automated AI Interview Scheduler & Notification Engine
 
 **Python · FastAPI · Gemini API · Gmail API · SQLite**
+
+🔗 **[View Repository](YOUR_INTERVIEW_SCHEDULER_REPOSITORY_LINK)**
 
 - ⚙️ Built an asynchronous background scheduler using FastAPI and APScheduler.
 - 📧 Automated inbox polling for recruitment-related communications.
@@ -140,26 +134,32 @@ I enjoy turning real-world requirements into practical software solutions with a
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narendar-ramavath&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendar-ramavath&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=narendar-ramavath&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendar-ramavath&layout=compact&hide_border=true&theme=transparent" height="170"/>
 </p>
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="left">
-  <a href="mailto:narendareduc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-narendareduc%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
 
-  <a href="https://www.linkedin.com/in/narendar-ramavath">
-    <img src="https://img.shields.io/badge/LinkedIn-Narendar%20Ramavath-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:narendareduc@gmail.com">
+<img src="https://img.shields.io/badge/Email-narendareduc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://artful-resume-display.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=flat&logo=googlechrome&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/narendar-ramavath">
+<img src="https://img.shields.io/badge/LinkedIn-Narendar%20Ramavath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://artful-resume-display.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/narendar-ramavath">
+<img src="https://img.shields.io/badge/GitHub-Narendar%20Ramavath-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
