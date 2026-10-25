@@ -121,7 +121,7 @@ An AI-assisted technical assessment platform combining automated code evaluation
 
 **Tech Stack:** `Python` `FastAPI` `Gemini API` `Gmail API` `SQLite` `APScheduler`
 
-🔗 **[View Source Code →](YOUR_INTERVIEW_SCHEDULER_REPOSITORY_LINK)**
+🔗 **[View Source Code →](https://github.com/narendar-ramavath/Automated-Interview-Scheduler-Whats-App-Notifier)**
 
 > 🚧 Repository link will be added soon.
 
