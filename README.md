@@ -1,4 +1,5 @@
-[# 👋 Hi, I'm Narendar Ramavath
+
+# 👋 Hi, I'm Narendar Ramavath
 
 ### Software Engineer | Full-Stack Developer | Backend Developer
 
@@ -73,6 +74,7 @@ Currently exploring **Backend Engineering, Full-Stack Development, AI Engineerin
 # 🚀 Featured Projects
 
 ## 📋 TaskFlow
+
 ### Full-Stack Task & Project Management Platform
 
 **Tech Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `JWT`
@@ -122,8 +124,6 @@ An AI-assisted technical assessment platform combining automated code evaluation
 **Tech Stack:** `Python` `FastAPI` `Gemini API` `Gmail API` `SQLite` `APScheduler`
 
 🔗 **[View Source Code →](https://github.com/narendar-ramavath/Automated-Interview-Scheduler-Whats-App-Notifier)**
-
-> 🚧 Repository link will be added soon.
 
 An AI-powered automation system designed to detect recruitment emails, extract interview information, store structured data, and automatically notify candidates.
 
@@ -217,4 +217,3 @@ An AI-powered automation system designed to detect recruitment emails, extract i
 **Learn • Build • Ship • Improve**
 
 </p>
-](https://github.com/narendar-ramavath/Automated-Interview-Scheduler-Whats-App-Notifier)
